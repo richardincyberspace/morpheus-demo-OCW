@@ -32,7 +32,7 @@ docker compose up
 
 should see the GUI window now
 
-IMG
+<img src="VisualSID1.png">
 
 ```
 cd ${MORPHEUS_ROOT}/examples/sid_visualization
@@ -50,7 +50,7 @@ python examples/sid_visualization/run.py \
   --input_file=./examples/data/sid_visualization/group3-si-50nodes.jsonlines \
   --input_file=./examples/data/sid_visualization/group4-benign-49nodes.jsonlines
 ```
- IMG 2
+<img src="VisualSID2.png">
 
  ### GNN Fraud Detection
 
